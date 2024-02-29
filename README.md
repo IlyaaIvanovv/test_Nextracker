@@ -6,7 +6,7 @@
 [📎 Ссылка для iOS](https://apps.apple.com/ru/app/nextracker-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80-%D0%BF%D1%80%D0%B8%D0%B2%D1%8B%D1%87%D0%B5%D0%BA/id1609916479)<br>
 [📎 Ссылка для Android](https://play.google.com/store/apps/details?id=com.alef.nextracker&pli=1)
 
-![Nextracker](pic.png)
+![Nextracker](https://github.com/IlyaaIvanovv/test_Nextracker/blob/main/pic.png)
 
 **Этапы выполнения кейса:**
 
